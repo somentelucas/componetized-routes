@@ -1,0 +1,1 @@
+# Use directives in your state's declaration with UI Router
